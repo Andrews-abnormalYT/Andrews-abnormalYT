@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Andrews-abnormalYT/Andrews-abnormalYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Andrew's Abnormal</title>
+</head>
+<body>
+  Hello viewers, let me show you some things!<br />
+  <Hello>
+    Not too long ago, just before the end of term, Tyler threatend me to delete Captain minecraft 101.<br />
+    I told my parents and they said we would set up a new youtube channel. So we deleted it before <br />
+    tyler did. Now I have a channel called Andrew's Abnormal!<br /><br />
+  </Hello>
+  You are wondering where my discord has gone! Well, it's...<br />
+  <Links>
+    Discord >> https://discord.gg/XRszcEwaqS <br />
+    Channel >> https://www.youtube.com/@andrewsabnormal <br />
+  </Links>
+  I thank you for reading this! <br /><br />
+</body>
+<img border="0" alt="W3Schools" src="https://cdn.discordapp.com/icons/1049204922228408380/65f5287f00e3fc8f6b2532bd2c180971.webp?size=100">
+</html>
