@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Andrew's Abnormal</title>
+Andrew's Abnormal
 </head>
 <body>
   Hello viewers, let me show you some things!<br />
